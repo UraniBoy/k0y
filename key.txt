@@ -1,1 +1,2 @@
-_G.Key = "123"
+local key = "123"
+return key
