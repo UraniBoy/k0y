@@ -1,1 +1,1 @@
-return "StratosHubOnTop"
+return "SHub"
