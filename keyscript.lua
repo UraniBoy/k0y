@@ -1,1 +1,1 @@
-return "SHub"
+return "SHub2"
