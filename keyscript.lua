@@ -1,1 +1,1 @@
-return "SHub2"
+return "ShittyMaxHub"
