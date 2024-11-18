@@ -1,1 +1,1 @@
-return "StratosHub = Cool"
+return "SHub"
